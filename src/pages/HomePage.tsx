@@ -13,37 +13,37 @@ export default function HomePage() {
   const categories = [
     {
       title: 'Солнечные панели',
-      imageSrc: 'https://images.pexels.com/photos/9875458/pexels-photo-9875458.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+      imageSrc: 'https://volta.kg/wp-content/uploads/2023/12/solnechnye-paneli.jpg',
       linkTo: '/catalog/solar-panels',
       count: 3
     },
     {
       title: 'Аккумуляторы',
-      imageSrc: 'https://images.pexels.com/photos/9875425/pexels-photo-9875425.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+      imageSrc: 'https://rovo.org.ua/media/thumb/25/79/product-Akumulyator-dlya-avtomobilya-litiieviy-LP-LiFePO4-zliva-12V-230-Ah_257910465ee940aeaf3bb61a5e67cc63.ipthumb850x850prop.jpg',
       linkTo: '/catalog/batteries',
       count: 2
     },
     {
       title: 'Инверторы',
-      imageSrc: 'https://images.pexels.com/photos/14781026/pexels-photo-14781026.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+      imageSrc: 'https://volta.kg/wp-content/uploads/2023/12/1.jpg',
       linkTo: '/catalog/inverters',
       count: 2
     },
     {
       title: 'LED-освещение',
-      imageSrc: 'https://images.pexels.com/photos/3566359/pexels-photo-3566359.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+      imageSrc: 'https://stroit.ru/wp-content/uploads/2020/10/svetodiodnoe-osveschenie-v-interere.jpg',
       linkTo: '/catalog/led-lighting',
       count: 3
     },
     {
       title: 'Контроллеры заряда',
-      imageSrc: 'https://images.pexels.com/photos/4792733/pexels-photo-4792733.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+      imageSrc: 'https://volta.kg/wp-content/uploads/2024/09/MPPT_1.png',
       linkTo: '/catalog/charge-controllers',
       count: 2
     },
     {
       title: 'Аксессуары',
-      imageSrc: 'https://images.pexels.com/photos/3709436/pexels-photo-3709436.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+      imageSrc: 'https://insolenergy.com.ua/image/cache/catalog/12222/AksesuariSolnechniepanelizastavka-777x777.jpg',
       linkTo: '/catalog/accessories',
       count: 2
     }
